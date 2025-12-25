@@ -1,5 +1,6 @@
 
-package Doctors;
+package Appiontment;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 
